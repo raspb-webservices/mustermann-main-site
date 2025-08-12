@@ -1,0 +1,27 @@
+bracketSpacing: true
+bracketSameLine: true
+semi: true
+singleQuote: true
+trailingComma: all
+arrowParens: always
+endOfLine: lf
+htmlWhitespaceSensitivity: strict
+printWidth: 140
+tabWidth: 2
+overrides:
+  - files:
+      - '**/*.css'
+      - '**/*.pcss'
+      - '**/*.scss'
+      - '**/*.html'
+      - '**/*.svelte'
+    options:
+      singleQuote: false
+  - files:
+      - '*.dialog.html'
+      - '*.view.html'
+    options:
+      parser: 'svelte'
+plugins:
+  - prettier-plugin-tailwindcss
+  - prettier-plugin-svelte
