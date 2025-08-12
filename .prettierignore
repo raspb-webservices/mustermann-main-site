@@ -1,8 +1,1 @@
-# Package Managers
-/dist
-/build
-/coverage
-node_modules
-package-lock.json
-pnpm-lock.yaml
-yarn.lock
+IyBQYWNrYWdlIE1hbmFnZXJzDQovZGlzdA0KL2J1aWxkDQovY292ZXJhZ2UNCm5vZGVfbW9kdWxlcw0KcGFja2FnZS1sb2NrLmpzb24NCnBucG0tbG9jay55YW1sDQp5YXJuLmxvY2sNCg==
