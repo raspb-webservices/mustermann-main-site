@@ -1,5 +1,14 @@
-# NEW WEBSITE
+# meine-testseite
 
-## Pro Civibus Stiftung GmbH, Frankfurt a. Main
+SvelteKit + TypeScript + TailwindCSS + DaisyUI boilerplate.
 
-More to come...
+Commands:
+
+- npm install
+- npm run dev
+- npm run build
+- npm run preview
+
+Notes:
+
+TailwindCSS and DaisyUI are configured. Run `npm install` to install dependencies listed in package.json.
